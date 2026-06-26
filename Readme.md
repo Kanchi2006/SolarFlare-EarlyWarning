@@ -35,6 +35,10 @@ SolarGuard AI uses a multi-agent architecture to:
 5. Recommendation Agent
 6. Report Agent
 
+## Architecture Diagram
+<img width="1269" height="1239" alt="image" src="https://github.com/user-attachments/assets/426a63dc-dab8-4a17-b6e5-608baf95e892" />
+
+
 ## Features
 
 * Solar Flare Risk Prediction
@@ -61,3 +65,4 @@ SolarGuard AI uses a multi-agent architecture to:
 ## Track
 
 Agents for Good
+Freestyle Track
