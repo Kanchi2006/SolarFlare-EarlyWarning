@@ -64,5 +64,5 @@ SolarGuard AI uses a multi-agent architecture to:
 
 ## Track
 
-Agents for Good
-Freestyle Track
+1.Agents for Good
+2.Freestyle Track
